@@ -1,0 +1,33 @@
+To run the Java banking system project, follow these simple steps depending on your environment.
+
+Option 1: Using a Text Editor + Command Line (e.g., VS Code + Terminal)
+Step 1: Save the Code
+Save the Java code into a file named :  BankingSystem.java
+
+Step 2: Open Terminal
+Navigate to the folder where BankingSystem.java is located.
+
+Step 3: Compile the Code
+Use the Java compiler : javac BankingSystem.java
+This will compile the code and generate BankingSystem.class and other class files.
+
+Step 4: Run the Program
+Run it using the java command :  java BankingSystem
+You should now see the Banking Menu in the terminal.
+
+
+
+Option 2: Using an IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
+For IntelliJ IDEA:
+Open IntelliJ → Click New Project.
+
+Choose Java (with SDK installed), click Next.
+
+Name the project (e.g., BankingSystem) and click Finish.
+
+In src, right-click → New > Java Class → Name it BankingSystem.
+
+Copy and paste the full code into the editor.
+
+Click the green Run button or press Shift + F10.
+ 
